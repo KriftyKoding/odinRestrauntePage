@@ -1,0 +1,26 @@
+html body {
+    background-color: blueviolet;
+    margin: 0;
+}
+
+header {
+    background-color: rgb(43, 10, 38);
+    color: cornsilk;
+    font-size: 5em;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: .1em;
+    text-align: center;
+
+}
+
+#content {
+    margin: 5em;
+    margin-top: 1em;
+    padding: .5em;
+    border: 5px solid rgb(43, 10, 38);
+    text-align: center;
+}
+
+#navBar {
+    text-align: center;
+}
