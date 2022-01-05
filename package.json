@@ -1,0 +1,26 @@
+{
+  "name": "odinrestrauntepage",
+  "version": "1.0.0",
+  "description": "practicing DOM manipulation by dynamically rendering a simple restaurant homepage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KriftyKoding/odinRestrauntePage.git"
+  },
+  "author": "krizzy@SnoKoders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KriftyKoding/odinRestrauntePage/issues"
+  },
+  "homepage": "https://github.com/KriftyKoding/odinRestrauntePage#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
