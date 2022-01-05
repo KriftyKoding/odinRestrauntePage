@@ -13,12 +13,18 @@ header {
 
 }
 
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
 #content {
     margin: 5em;
     margin-top: 1em;
     padding: .5em;
-    border: 5px solid rgb(43, 10, 38);
+    border: 5px solid cornsilk;
     text-align: center;
+    background-color: rgb(43, 10, 38);
+    color: cornsilk;
 }
 
 #navBar  {
@@ -33,4 +39,26 @@ input, textarea {
     width: 20em;
 }
 
+.menuList {
+    /* display: flex; */
+}
+
+.menuItem {
+    display: flex;
+    margin: 1em;
+    color: cornsilk;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    justify-content: space-between;
+}
+
+.menuItem img {
+    border: .2em solid cornsilk;
+    border-radius: 2px;
+    /* padding:; */
+    width: 150px;
+}
+
+.menuItem {
+    text-align: right;
+}
     

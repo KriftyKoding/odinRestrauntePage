@@ -1,11 +1,15 @@
-console.log("TestTestTest");
-
 import _ from 'lodash';
 import homePage from "./homePage";
 import navBar from "./navBar"
 import contact from "./contact"
+import menu from "./menu"
 
 navBar();
-// homePage();
-contact();
+homePage();
+// contact();
+// menu();
+
+function test() {
+    console.log("Test for the win");
+}
 
