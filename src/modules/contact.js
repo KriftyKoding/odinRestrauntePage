@@ -1,4 +1,5 @@
 function contact() {
+    
     const element = document.getElementById("content");
     const headline = document.createElement('h1');
     headline.textContent = "sno restraunte"
